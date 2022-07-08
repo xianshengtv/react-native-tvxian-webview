@@ -9,7 +9,7 @@
     "Thibault Malbranche <malbranche.thibault@gmail.com>"
   ],
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "homepage": "https://github.com/xianshengtv/react-native-tvxian-webview#readme",
   "scripts": {
     "android": "react-native run-android",
@@ -83,7 +83,7 @@
     "lib",
     "index.js",
     "index.d.ts",
-    "react-native-tvxian-webview.podspec",
+    "RNCTVShengWebView.podspec",
     "react-native.config.js"
   ]
 }

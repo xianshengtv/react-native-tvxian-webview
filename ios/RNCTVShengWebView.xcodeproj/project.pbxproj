@@ -14,12 +14,12 @@
 
 /* Begin PBXFileReference section */
 		1462C9252876B5EB00138E32 /* RNCTVShengWebView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RNCTVShengWebView.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1462C9412876B5F800138E32 /* RNCTVShengWebViewManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNCTVShengWebViewManager.m; path = ../../../apple/RNCTVShengWebViewManager.m; sourceTree = "<group>"; };
-		1462C9422876B5F800138E32 /* RNCTVShengWebViewManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNCTVShengWebViewManager.h; path = ../../../apple/RNCTVShengWebViewManager.h; sourceTree = "<group>"; };
-		1462C9432876B5F800138E32 /* RNCTVShengWKProcessPoolManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNCTVShengWKProcessPoolManager.h; path = ../../../apple/RNCTVShengWKProcessPoolManager.h; sourceTree = "<group>"; };
-		1462C9442876B5F800138E32 /* RNCTVShengWKProcessPoolManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNCTVShengWKProcessPoolManager.m; path = ../../../apple/RNCTVShengWKProcessPoolManager.m; sourceTree = "<group>"; };
-		1462C9452876B5F800138E32 /* RNCTVShengWebView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNCTVShengWebView.m; path = ../../../apple/RNCTVShengWebView.m; sourceTree = "<group>"; };
-		1462C9462876B5F800138E32 /* RNCTVShengWebView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNCTVShengWebView.h; path = ../../../apple/RNCTVShengWebView.h; sourceTree = "<group>"; };
+		1462C9412876B5F800138E32 /* RNCTVShengWebViewManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNCTVShengWebViewManager.m; path = ../../../ios/RNCTVShengWebViewManager.m; sourceTree = "<group>"; };
+		1462C9422876B5F800138E32 /* RNCTVShengWebViewManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNCTVShengWebViewManager.h; path = ../../../ios/RNCTVShengWebViewManager.h; sourceTree = "<group>"; };
+		1462C9432876B5F800138E32 /* RNCTVShengWKProcessPoolManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNCTVShengWKProcessPoolManager.h; path = ../../../ios/RNCTVShengWKProcessPoolManager.h; sourceTree = "<group>"; };
+		1462C9442876B5F800138E32 /* RNCTVShengWKProcessPoolManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNCTVShengWKProcessPoolManager.m; path = ../../../ios/RNCTVShengWKProcessPoolManager.m; sourceTree = "<group>"; };
+		1462C9452876B5F800138E32 /* RNCTVShengWebView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNCTVShengWebView.m; path = ../../../ios/RNCTVShengWebView.m; sourceTree = "<group>"; };
+		1462C9462876B5F800138E32 /* RNCTVShengWebView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNCTVShengWebView.h; path = ../../../ios/RNCTVShengWebView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
